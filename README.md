@@ -1,3 +1,4 @@
+# Mini Fintech Pay
 
 
 ## Tính năng chính
@@ -156,3 +157,6 @@ Dự án hiện tại sử dụng dữ liệu tĩnh. Để mở rộng, bạn c�
    - Kiểm tra email và app password
    - Đảm bảo đã bật 2FA và tạo App Password
    - Kiểm tra kết nối internet
+=======
+# mini-fintech-pay
+>>>>>>> d3c828e270994c93ad7cf4081518c069108bf78f
